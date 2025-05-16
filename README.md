@@ -53,7 +53,9 @@
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
 
 ### ✍️Y recuerda...
-![Frase](https://readme-quote.vercel.app/api?quote=Solo+aprendes+cuando+practicas+y+mientras+mas+practicas+mas+aprendes&author=Carlos+Merida&theme=tokyonight)
+
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json)
 
 
 

@@ -29,9 +29,14 @@
 # 💻Tecnologias <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <p align = "center">
 <img src="./Habilidades/HTML.svg" alt="HTML" height = "140px">
-<img src="./Habilidades/Node js.svg" alt="Node js"  height = "140px">
-<img src="./Habilidades/Tailwindcss.svg" alt="Tailwindcss"  height = "140px">
-<img src="./Habilidades/GIT.svg" alt="Git"  height = "140px">
+<img src="./Habilidades/Node js.svg" alt="Node js" height = "140px">
+<img src="./Habilidades/Tailwind.svg" alt="Tailwindcss" height = "140px">
+<img src="./Habilidades/GIT.svg" alt="Git" height = "140px">
+<img src="./Habilidades/Bash.svg" alt="Bash" height = "140px">
+<img src="./Habilidades/Figma.svg" alt="Figma" height = "140px">
+<img src="./Habilidades/Javascript.svg" alt="Javascript" height = "140px">
+<img src="./Habilidades/MySQL.svg" alt="MySQL" height = "140px">
+<img src="./Habilidades/React.svg" alt="React" height = "140px">
 </p>
 
 # 📊GitHub Stats :

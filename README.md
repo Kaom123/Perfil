@@ -30,7 +30,7 @@
 <p align = "center">
 <img src="./Habilidades/HTML.svg" alt="HTML" height = "140px">
 <img src="./Habilidades/Node js.svg" alt="Node js" height = "140px">
-<img src="./Habilidades/Tailwind.svg" alt="Tailwindcss" height = "140px">
+<img src="./Habilidades/Tailwindcss.svg" alt="Tailwindcss" height = "140px">
 <img src="./Habilidades/GIT.svg" alt="Git" height = "140px">
 <img src="./Habilidades/Bash.svg" alt="Bash" height = "140px">
 <img src="./Habilidades/Figma.svg" alt="Figma" height = "140px">

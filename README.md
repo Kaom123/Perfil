@@ -55,7 +55,7 @@
 ### ✍️Y recuerda...
 
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=./Habilidades/quotes.json)
 
 
 

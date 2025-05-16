@@ -52,8 +52,9 @@
 
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️Y recuerda...
+![Frase](https://readme-quote.vercel.app/api?quote=Solo+aprendes+cuando+practicas+y+mientras+mas+practicas+mas+aprendes&author=Carlos+Merida&theme=tokyonight)
+
 
 
 ![](https://komarev.com/ghpvc/?username=alemerida27&label=Visitors+Count&color=brightgreen)

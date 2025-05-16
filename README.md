@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 Actualmente trabajando en mi sitio web personal: codewhiteweb.cf
+🔭 Actualmente trabajando en mi sitio web personal: alemerida.dev
 
 🌱 Aprendiendo y mejorando con Node.js
 💻 Enfocado en desarrollo web elegante, eficiente y escalable
@@ -42,21 +42,21 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alemerida27&theme=juicyfresh)
 
-### 📕 Latest Blog Posts
+### 📕 Mis ultimos proyectos
 
 <!-- BLOG-POST-LIST:START -->
- [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)
+ [El punto del sabor](https://restaurantexample-alejandrodev.netlify.app/)
   
- [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
+ [TuProfeVirtual](https://tuprofevirtual.com)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/codewhiteweb)
+➡️ [Mas proyectos...](https://alemerida.dev)
 
 ### ✍️Y recuerda...
 
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=./Habilidades/quotes.json)
-
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/alemerida27/alemerida27/main/Habilidades/quotes.json&theme=dark&layout=socrates" alt="Quote" />
+</div>
 
 
 ![](https://komarev.com/ghpvc/?username=alemerida27&label=Visitors+Count&color=brightgreen)

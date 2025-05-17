@@ -22,7 +22,7 @@
 📢 GitHub es mi forma de mostrar lo que sé hacer, sin filtros
 
 📬 Contacto:
-✉️ alemerida_dev@gmail.com
+✉️ alemerida.dev@gmail.com
 
 
 
